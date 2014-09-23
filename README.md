@@ -1,1 +1,1 @@
-http://broderboy.github.com/vagrant-magento-presentation/
+Deprecated. Please go [here](https://github.com/broderboy/vagrant-presentation/)
